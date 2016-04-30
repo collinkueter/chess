@@ -6,7 +6,7 @@ public class BoardTest {
 
         @Test
         public void is_correctly_setup() {
-            
+
         }
 
     }
